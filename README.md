@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning C,C++<br>I'm currently pursuing B.E (ECE)<br>Reach out to me at rahulpoojari120@gmail.com
+I'm currently learning C,C++<br>I'm currently pursuing B.E <br>Reach out to me at rahulpoojari120@gmail.com
 
 
 ## 🌐 Socials:
