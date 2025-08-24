@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Beginner-friendly Python CLI projects (Calculator, To-Do App, Converters, Games)<br><br>Exploring DSA in Python to strengthen problem-solving skills<br><br>👯 I’m looking to collaborate on<br><br>Open-source beginner projects in Python<br><br>Small tools and utilities that help students & developers<br><br>🤝 I’m looking for help with<br><br>Best practices in Python project structure<br><br>Getting started with open-source contributions<br><br>🌱 I’m currently learning<br><br>FastAPI for backend development<br><br>SQL & Databases<br><br>Git & GitHub workflows for collaboration<br><br>💬 Ask me about<br><br>Python basics 🐍<br><br>Writing small CLI apps<br><br>How to start with GitHub as a beginner<br><br>⚡ Fun fact<br><br>I get more excited fixing bugs 🐛 than writing new code 😅
+## 🚀 About Me  
+
+Hi, I’m **Rahul U** 👋  
+
+- 🌱 Currently exploring **Machine Learning basics**, applied in my **EV project**  
+- 🐍 Practicing **Python DSA** on **LeetCode**  
+- 💻 Building and sharing **Python CLI apps**  
+- 🗄️ Exploring **Databases (MySQL)** for backend development  
+- 🤖 Curious about **AI/ML** and future tech innovations  
+
+---
+✨ Always curious, learning, and growing in the world of **Tech & AI/ML** ⚡
+
 
 
 ## 🌐 Socials:
