@@ -32,7 +32,7 @@ Hi, I’m **Rahul U** 👋
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourahul&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/yourahul)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
