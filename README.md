@@ -2,10 +2,9 @@
 
 Hi, I’m **Rahul U** 👋  
 
-- 🌱 Currently exploring **Machine Learning basics**, applied in my **EV project**  
+- 🌱 Currently exploring **Machine Learning **  
 - 🐍 Practicing **Python DSA** on **LeetCode**  
-- 💻 Building and sharing **Python CLI apps**  
-- 🗄️ Exploring **Databases (MySQL)** for backend development  
+- 💻 Building and sharing **Python CLI apps**   
 - 🤖 Curious about **AI/ML** and future tech innovations  
 
 ---
